@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/python-ocpjtuqz:c45987a7b90b73d3fa65735ec8034e201d1b0058@sha256:dc2d06e6fe93a429fd4bc5753de886e441bb1c24ccf496cd73b0b2a5ca4f681e
+        - image: quay.io/jsmid/python-ocpjtuqz:a34cc3b43cf7947928f8f90e0f4edfc6f9662977@sha256:b3e0ee60f55bd13696ca1c580b34ad65bad1ad17d83a81a484c630bff868bcc8
           name: container-image
